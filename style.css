@@ -71,3 +71,20 @@ body {
   width: 72%;
   text-align: center;
 }
+
+.samuel-imagem {
+  width: 120px;
+}
+
+.segundo-prof-icone {
+  width: 30px;
+  text-align: center;
+ }
+
+ .segundo-prof-div {
+  text-align: center;
+ }
+
+ .imagens-dos-professores {
+  display: flex;
+ }

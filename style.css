@@ -50,3 +50,11 @@ body {
  .professor-imagem{
    width: 120px;
  }
+
+ .professor-icone {
+  width: 30px;
+ }
+
+ .professor-div {
+  text-align: center;
+ }

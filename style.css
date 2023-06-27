@@ -88,3 +88,12 @@ body {
  .imagens-dos-professores {
   display: flex;
  }
+
+ .terceiro-prof-icone {
+  width: 30px;
+  text-align: center;
+ }
+
+ .terceiro-prof-div {
+  text-align: center;
+ }

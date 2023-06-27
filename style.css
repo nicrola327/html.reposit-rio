@@ -53,8 +53,21 @@ body {
 
  .professor-icone {
   width: 30px;
+  text-align: center;
  }
 
  .professor-div {
+  width: 60%;
   text-align: center;
  }
+
+.estudante {
+  background-image: linear-gradient(#00c0eb,#75dbf1);
+  color: white;
+  padding: 24px 0;
+}
+
+.estudante-titulo {
+  width: 72%;
+  text-align: center;
+}

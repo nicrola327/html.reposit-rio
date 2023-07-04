@@ -47,6 +47,17 @@ body {
    font-family: "poppins",sans-serif;
  }
 
+ .estudante {
+    background-image: linear-gradient(#00c0eb,#75dbf1);
+    color: white;
+    padding: 24px 0;
+  }
+  
+  .estudante-titulo {
+    width: 72%;
+    text-align: center;
+  }
+
  .professor-imagem{
    width: 120px;
  }
@@ -57,20 +68,8 @@ body {
  }
 
  .professor-div {
-  width: 60%;
   text-align: center;
  }
-
-.estudante {
-  background-image: linear-gradient(#00c0eb,#75dbf1);
-  color: white;
-  padding: 24px 0;
-}
-
-.estudante-titulo {
-  width: 72%;
-  text-align: center;
-}
 
 .samuel-imagem {
   width: 120px;
@@ -87,6 +86,7 @@ body {
 
  .imagens-dos-professores {
   display: flex;
+  text-align: center;
  }
 
  .terceiro-prof-icone {
@@ -97,3 +97,19 @@ body {
  .terceiro-prof-div {
   text-align: center;
  }
+
+ .quarto-prof-icone {
+    width: 30px;
+  text-align: center;
+ }
+
+ .escola-2 {
+    background-image: linear-gradient(#75dbf1,#383d58);
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
+ }
+
+ 

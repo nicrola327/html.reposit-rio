@@ -54,8 +54,8 @@ body {
   }
   
   .estudante-titulo {
-    width: 72%;
     text-align: center;
+    padding: 50px 0;
   }
 
  .professor-imagem{
@@ -85,8 +85,8 @@ body {
  }
 
  .imagens-dos-professores {
-  display: flex;
-  text-align: center;
+    display:grid;
+    grid-template-columns: 20% 20% 20% 20%;
  }
 
  .terceiro-prof-icone {
